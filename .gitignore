@@ -2,3 +2,9 @@
 composer.lock
 composer.phar
 vendor
+
+# phpstorm related
+.idea
+*.iml
+*.ipr
+*.iws
